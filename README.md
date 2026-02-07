@@ -45,14 +45,14 @@ TIL helps you:
 
 ```yaml
 ---
-title: How can I adopt the TIL and LIFE repositories into my life?
+title: "How can I adopt the TIL and LIFE repositories into my life?"
 layout: post
 date: 2026-02-05T12:13
 category: github
 tags:
-- lerning
-- self-managenent
-- github
+    - lerning
+    - self-managenent
+    - github
 ---
 ```
 
