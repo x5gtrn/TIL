@@ -1,5 +1,5 @@
 ---
-title: "Managing Life with GitHub: TIL and LIFE Repositories"
+title: "Managing Life with GitHub - TIL and LIFE Repositories"
 layout: post
 date: 2026-02-05T17:40+09:00
 category: github
@@ -9,7 +9,7 @@ tags:
     - github
 ---
 
-# Managing Life with GitHub: TIL and LIFE Repositories
+# Managing Life with GitHub - TIL and LIFE Repositories
 
 I learned about the "manage your life with GitHub" approach by watching the following two videos:
 

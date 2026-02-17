@@ -1,5 +1,5 @@
 ---
-title: "Superkey: Simple and powerful keyboard enhancement on macOS"
+title: "Superkey - Simple and powerful keyboard enhancement on macOS"
 layout: post
 date: 2026-02-07T21:15+09:00
 category: apps
@@ -9,7 +9,7 @@ tags:
     - enhancement
 ---
 
-# [Superkey](https://superkey.app): Simple and powerful keyboard enhancement on macOS
+# [Superkey](https://superkey.app) - Simple and powerful keyboard enhancement on macOS
 
 ## Core Functionality
 
