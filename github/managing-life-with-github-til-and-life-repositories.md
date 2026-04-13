@@ -3,10 +3,8 @@ title: "Managing Life with GitHub - TIL and LIFE Repositories"
 layout: post
 date: 2026-02-05T17:40+09:00
 category: github
-tags:
-    - lerning
-    - self-managenent
-    - github
+tags: [lerning, github, self-managenent]
+in: TIL
 ---
 
 # Managing Life with GitHub - TIL and LIFE Repositories
